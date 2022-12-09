@@ -27,6 +27,7 @@ const dispatch = useDispatch()
             <h1>{user.name}</h1>
             <h1>{user.username}</h1>
             <h3>itay frist branch</h3>
+            <h3>chup branch!</h3>
             </div>
           )
         })}
